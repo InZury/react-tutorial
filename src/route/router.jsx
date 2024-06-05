@@ -5,11 +5,7 @@ export const router = createBrowserRouter(
     [
         {
             path: '/',
-            element: <Title />,
-            children:
-            [
-                
-            ]
+            element: <Title />
         }
     ]
 );

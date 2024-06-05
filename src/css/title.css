@@ -1,0 +1,46 @@
+.titleDiv {
+    align-content: center;
+}
+
+.titleH1 {
+    width: 90vw;
+    height: 5vh;
+    text-align: center;
+    margin: auto;
+}
+
+.boxDiv {
+    display: flex;
+    width: 70vw;
+    height: 90vh;
+    margin: auto;
+
+    align-items: center;
+}
+
+.leftDiv {
+    background-color: white;
+    border: 3px solid black;
+    width: 10vw;
+    height: 40vh;
+
+    margin: auto;
+}
+
+.centerDiv {
+    background-color: white;
+    border: 3px solid black;
+    width: 40vw;
+    height: 40vh;
+
+    margin: auto;
+}
+
+.rightDiv {
+    background-color: white;
+    border: 3px solid black;
+    width: 10vw;
+    height: 40vh;
+
+    margin: auto;
+}
